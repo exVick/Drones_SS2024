@@ -2,13 +2,17 @@
 Our solution to case 3 during the “Summer School on Modeling, AI, and Complex Systems ‘2024”: https://github.com/Marchev-Science/case-drone-signature-classification
 
 Our Team Name: Raketa.
+
 Authors:
-Viktor Doychev
-Plamena Kalaydzhieva
-Kostadinka Stanimirova
-Valko Dzhankardashliyski
+- Viktor Doychev
+- Plamena Kalaydzhieva
+- Kostadinka Stanimirova
+- Valko Dzhankardashliyski
 
 Files:
+1) drone_classification.ipynb: this file contains most of the code The code is well structured and easy to follow.
+2) Frequency_bands_analysis.ipynb: this is an auxiliary file, where we performed analysis of the peaks from the FFT for each drone type. In it we identified the most suitable ranges, which we later used in the main file. 
+3) environment.yml: A yml file containing the environment for the project.
 
 
 ## 1. The tasks we had
