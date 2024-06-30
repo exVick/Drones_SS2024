@@ -71,6 +71,7 @@ _data.csv / _meta.csv - data type recorded in the file - 'data' for raw data, 'm
 ### 3. Use the features to determine which activities the UAV is doing.
 
 ### 4. Distinguish LOS/NLOS.
+Beyond scope of our work.
 
 
 ## References 
