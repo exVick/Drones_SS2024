@@ -18,12 +18,10 @@ TABLE I:
 
 ### DATA ACQUISITION
 ![image](https://github.com/exVick/case-drone-signature-classification/assets/91212676/900d9a9a-bbd7-4d64-9537-bd8253a6b675)
-
 Fig. :
 
 
 ![image](https://github.com/exVick/case-drone-signature-classification/assets/91212676/da93b97a-38b6-4815-8ab3-deec302b9695)
-
 Fig. :
 
 ### DATA STRUCTURE
