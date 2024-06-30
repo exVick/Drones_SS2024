@@ -1,6 +1,16 @@
 # Drone signature classification
 Our solution to case 3 during the “Summer School on Modeling, AI, and Complex Systems ‘2024”: https://github.com/Marchev-Science/case-drone-signature-classification
 
+Our Team Name: Raketa.
+Authors:
+Viktor Doychev
+Plamena Kalaydzhieva
+Kostadinka Stanimirova
+Valko Dzhankardashliyski
+
+Files:
+
+
 ## 1. The tasks we had
 Use the provided CardRF dataset to solve the following tasks:
 1. Extract characteristic features for every UAV, distinguishing it from the others.
