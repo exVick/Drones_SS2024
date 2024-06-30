@@ -4,7 +4,7 @@ Our solution to case 3 during the “Summer School on Modeling, AI, and Complex 
 Our Team Name: Raketa.
 
 Authors:
-- Viktor Doychev
+- Viktor Doychev [LinkedIn](https://www.linkedin.com/in/viktor-doychev-5473b4206/)
 - Plamena Kalaydzhieva
 - Kostadinka Stanimirova
 - Valko Dzhankardashliyski
