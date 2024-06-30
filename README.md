@@ -43,6 +43,7 @@ Fig. 1: The RFSSCS setup for visual line of sight capturing of signals from: (a)
 
 
 ![image](https://github.com/exVick/case-drone-signature-classification/assets/91212676/da93b97a-38b6-4815-8ab3-deec302b9695)
+
 Fig. 2: The RFSSCS setup for beyond-visual-line-of-sight capturing of signals from UAV.
 
 ### DATA AND FILE STRUCTURE
