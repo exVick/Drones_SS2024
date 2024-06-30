@@ -66,12 +66,13 @@ _data.csv / _meta.csv - data type recorded in the file - 'data' for raw data, 'm
 ## 3. Our Solutions
 
 ### 1. Extract characteristic features for every UAV, distinguishing it from the others.
-1)
-2)
+We completed the task: see the presentation for more info.
 
 ### 2. Use the features to classify (through a multi-class model) to determine the type of UAV.
+We completed the task: see the presentation for more info.
 
 ### 3. Use the features to determine which activities the UAV is doing.
+We have input for future work: see the presentation for more info.
 
 ### 4. Distinguish LOS/NLOS.
 Beyond scope of our work.
