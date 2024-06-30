@@ -10,9 +10,10 @@ Authors:
 - Valko Dzhankardashliyski
 
 Files:
-1) drone_classification.ipynb: this file contains most of the code The code is well structured and easy to follow.
-2) Frequency_bands_analysis.ipynb: this is an auxiliary file, where we performed analysis of the peaks from the FFT for each drone type. In it we identified the most suitable ranges, which we later used in the main file. 
+1) drone_classification.ipynb: This file contains most of the code The code is well structured and easy to follow.
+2) Frequency_bands_analysis.ipynb: This is an auxiliary file, in which we performed analysis of the peaks from the FFT for each drone type. In the notebook we identified the most suitable ranges, which we later used in the main file. 
 3) environment.yml: A yml file containing the environment for the project.
+4) Drone_classification_presentation.pdf: The slides from our presentation.
 
 
 ## 1. The tasks we had
