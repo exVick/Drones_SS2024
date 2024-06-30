@@ -66,13 +66,13 @@ _data.csv / _meta.csv - data type recorded in the file - 'data' for raw data, 'm
 ## 3. Our Solutions
 
 ### 1. Extract characteristic features for every UAV, distinguishing it from the others.
-We completed the task: see the presentation for more info.
+We completed the task: see the presentation for more info. The code for this is in drone_classification.ipynb and Frequency_bands_analysis.ipynb.
 
 ### 2. Use the features to classify (through a multi-class model) to determine the type of UAV.
-We completed the task: see the presentation for more info.
+We completed the task: see the presentation for more info. The code for this is in drone_classification.ipynb.
 
 ### 3. Use the features to determine which activities the UAV is doing.
-We have input for future work: see the presentation for more info.
+We have input for future work: see the presentation for more info. The code for this is in drone_classification.ipynb.
 
 ### 4. Distinguish LOS/NLOS.
 Beyond scope of our work.
