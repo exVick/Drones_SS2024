@@ -16,6 +16,9 @@ Use the provided CardRF dataset to solve the following tasks:
 
 
 ## References
+
 [1] GitHub Case Drone signature classification. [Online]. Available: https://github.com/Marchev-Science/case-drone-signature-classification/tree/main.
+
 [2] O. O. Medaiyese, M. Ezuma, A. P. Lauf, and A. A. Adeniran, “Hierarchical Learning Framework for UAV Detection and Identification” arXiv preprint arXiv: 2107.04908, 2021.
+
 [3] AERPAW, “CARDINAL RF (CARDRF): An Outdoor UAV/UAS/DRONE RF Signals with Bluetooth and WiFi Signals Dataset”. [Online]. Available: https://aerpaw.org/dataset/cardinal-rf-cardrf-an-outdoor-uav-uas-drone-rf-signals-with-bluetooth-and-wifi-signals-dataset/
