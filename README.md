@@ -47,8 +47,8 @@ Fig. 2: The RFSSCS setup for beyond-visual-line-of-sight capturing of signals fr
 
 ### DATA AND FILE STRUCTURE
 
+The CARDRF directory contains the raw signals, from which the LOS examples are already divided into train and test sets. The Processed CardRF directory includes the sliced steady signals from LOS, each labeled with the respective class. Each signal in this directory has 1024 sampling points. The MATLAB code used for processing these signals is located in the code directory. The raw signals needed to be scaled using a factor of 6.581e−06 for the voltage.
 
-Illustration tree of the directories
 ![image](https://github.com/exVick/case-drone-signature-classification/assets/91212676/efc36ec4-4c76-4252-a016-6899318717d0)
 Fig. 3: Directory tree for data label of the Cardinal RF dataset, showing the UAV models and UAV flight modes as sub-directories and sub-directories of sub-directories, respectively.
 
