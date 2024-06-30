@@ -5,9 +5,9 @@ Our Team Name: Raketa.
 
 Authors:
 - Viktor Doychev [LinkedIn](https://www.linkedin.com/in/viktor-doychev-5473b4206/)
-- Plamena Kalaydzhieva
-- Kostadinka Stanimirova
-- Valko Dzhankardashliyski
+- Plamena Kalaydzhieva [LinkedIn](https://www.linkedin.com/in/plamena-kalaydzhieva-035a9a116/)
+- Kostadinka Stanimirova [LinkedIn](https://www.linkedin.com/in/kostadinka-stanimirova-190482202/)
+- Valko Dzhankardashliyski [LinkedIn](https://www.linkedin.com/in/valko-dzhankardashliyski-3a623192/)
 
 Files:
 1) drone_classification.ipynb: This file contains most of the code The code is well structured and easy to follow.
