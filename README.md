@@ -1,4 +1,4 @@
-# case-drone-signature-classification
+# Drone signature classification
 solution to https://github.com/Marchev-Science/case-drone-signature-classification
 
 ## 1. The tasks we had
