@@ -1,5 +1,5 @@
 # Drone signature classification
-solution to https://github.com/Marchev-Science/case-drone-signature-classification
+Our solution to case 3 during the “Summer School on Modeling, AI, and Complex Systems ‘2024”: https://github.com/Marchev-Science/case-drone-signature-classification
 
 ## 1. The tasks we had
 Use the provided CardRF dataset to solve the following tasks:
@@ -33,7 +33,7 @@ Fig. : Directory tree for data label of the Cardinal RF dataset, showing the UAV
 
 
 
-## References
+## References 
 
 [1] GitHub Case Drone signature classification. [Online]. Available: https://github.com/Marchev-Science/case-drone-signature-classification/tree/main.
 
