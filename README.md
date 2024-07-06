@@ -90,7 +90,7 @@ We completed the task: see the presentation for more info. The code for this is 
 We have input for future work: see the presentation for more info. The code for this is in drone_classification.ipynb.
 
 ### 4. Distinguish LOS/NLOS.
-Beyond scope of our work.
+Results to be displayed here.
 
 
 ## References 
